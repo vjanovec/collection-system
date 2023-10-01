@@ -1,0 +1,25 @@
+.menu {
+    border-radius: 2rem;
+    overflow: hidden;
+}
+
+.menu-option {
+    height: 20rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+} 
+.branch-option {
+
+}
+.option-caption {
+    font-size: 2rem;
+    color: #9da1a3;
+    text-transform: uppercase;
+}
+.branch-option {
+    
+}
